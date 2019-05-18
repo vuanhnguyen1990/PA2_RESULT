@@ -1,4 +1,4 @@
-	##My solution:
+	# My solution:
 	
 	Test 1: prefix= "*iterating through alphabet*", num_completions= 10
 	Test 1: time taken: 6405882 nanoseconds.
