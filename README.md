@@ -1,3 +1,5 @@
+	# My solution:
+	
 	Test 1: prefix= "*iterating through alphabet*", num_completions= 10
 	Test 1: time taken: 6405882 nanoseconds.
 	Test 1: results found: 260
@@ -59,7 +61,8 @@
 	Test 5: results found: 10
   
   *********************************************************************************************
-  Test 1: prefix= "*iterating through alphabet*", num_completions= 10
+  	# Ref Solution
+  	Test 1: prefix= "*iterating through alphabet*", num_completions= 10
 	Test 1: time taken: 2592962949 nanoseconds.
 	Test 1: results found: 260
 
